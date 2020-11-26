@@ -1,0 +1,11 @@
+
+
+Glowna tablica: [ 3, 4, -7, 3, 1, 3, 1, -4, -2, -2 ]
+
+Istnieja podtablice, ktorych suma wynosi 0
+Podtablica: [0..2] czyli: [ 3, 4, -7 ]
+Podtablica: [0..9] czyli: [ 3, 4, -7, 3, 1, 3, 1, -4, -2, -2 ]
+Podtablica: [1..3] czyli: [ 4, -7, 3 ]
+Podtablica: [2..5] czyli: [ -7, 3, 1, 3 ]
+Podtablica: [3..9] czyli: [ 3, 1, 3, 1, -4, -2, -2 ]
+Podtablica: [5..7] czyli: [ 3, 1, -4 ]
